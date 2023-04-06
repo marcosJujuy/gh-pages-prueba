@@ -1,0 +1,21 @@
+:root {
+  --color-principal: aqua;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.contenedor {
+  --color-principal: green;
+}
+
+.titulo {
+  color: var(--color-principal);
+}
+
+/*# sourceMappingURL=index.61d3354a.css.map */
